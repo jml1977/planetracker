@@ -5,8 +5,8 @@ Processes SBS1 format from dump1090 and plots on google maps.  dump1090 prints t
 Mine is http://antirez.com/news/46
 
 # Prerequisites
-Running redis locally: `redis-server`
-Register for an API key on Google Maps and then set local environment variable `GOOGLE_MAPS_API_KEY`
+* Running redis locally: `redis-server`
+* Register for an API key on Google Maps and then set local environment variable `GOOGLE_MAPS_API_KEY`
 
 # TODO
 * Lots(!)
